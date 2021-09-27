@@ -33,7 +33,7 @@ This class is designed to provide a low-barrier, low-stress introduction to prog
 
 * 11.01.2021 Intro to machine learning/pattern recognition (Mahalanobis Distance and Support Vector Machines) 
 
-* 11.08.2021 INon-parametric statistics (randomization testing and bootstrapping)
+* 11.08.2021 Non-parametric statistics (randomization testing and bootstrapping)
 
 * 11.15.2021 Entropy/Mutual Information/Kernel Density Estimation (KDE)
 
